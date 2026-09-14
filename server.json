@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/octopart",
+  "title": "Octopart",
+  "description": "Octopart MCP — electronic component search via the Nexar Supply API (GraphQL)",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/octopart",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-octopart",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/octopart/mcp"
+    }
+  ]
+}
