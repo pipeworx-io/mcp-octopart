@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-octopart",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Octopart MCP — electronic component search via the Nexar Supply API (GraphQL)",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "octopart",
     "gatewaySlug": "octopart",
-    "sourceHash": "v1-00dab982d01f0b1c2d25e1c083cdf495680d54a997720c31d0abc4b6857ea45b",
-    "sourceCommit": "b2c4383545bb35171d0ada2beb1c9c7168ea175e"
+    "sourceHash": "v1-bcfeb3ea1543cade5740a34546ffc1a382829b1625a3bff1957114f418a5ab99",
+    "sourceCommit": "bed7faa04e7276899b5e3870ef11c98625371f2b"
   }
 }
